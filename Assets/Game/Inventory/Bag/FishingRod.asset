@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b9eb49f3463844f97e72f5c619b492, type: 3}
+  m_Name: FishingRod
+  m_EditorClassIdentifier: 
+  itemNumber: 2
+  itemDistance: 1.5
+  itemOffset: {x: 0.5, y: 0.5, z: 0}
+  itemName: "\u9493\u9C7C\u7AFF"
+  itemImage: {fileID: 21300000, guid: 65f2abedc5c2d4441b231125c9b26f46, type: 3}
+  itemHeld: 0
+  itemInfo: "\u7531\u7EF3\u5B50\u548C\u6728\u5934\u5236\u6210\u7684\u9493\u9C7C\u7AFF\uFF0C\u9493\u9C7C\u4F6C\u7684\u6700\u7231\uFF0C\u53EF\u4EE5\u5728\u67D0\u5904\u9493\u9C7C\u3002"

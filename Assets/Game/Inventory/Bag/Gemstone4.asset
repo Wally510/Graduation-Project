@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 95b9eb49f3463844f97e72f5c619b492, type: 3}
+  m_Name: Gemstone4
+  m_EditorClassIdentifier: 
+  itemNumber: 13
+  itemDistance: 0
+  itemOffset: {x: 0, y: 0, z: 0}
+  itemName: "\u7B2C\u56DB\u9897\u5B9D\u77F3"
+  itemImage: {fileID: -5327836679087375521, guid: 01ed886f8c91cce418f2037d67667ffb, type: 3}
+  itemHeld: 0
+  itemInfo: "\u7B2C\u56DB\u9897\u5B9D\u77F3\uFF0C\u62E5\u6709\u795E\u79D8\u7684\u529B\u91CF\u3002"
